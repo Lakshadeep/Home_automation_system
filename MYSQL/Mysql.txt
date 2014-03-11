@@ -1,0 +1,4 @@
+Each appliance to be controlled should have 1 table in database.
+Each table consist of 2 columns 
+1. Serial number
+2. Data

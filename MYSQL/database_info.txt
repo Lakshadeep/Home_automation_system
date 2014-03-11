@@ -1,0 +1,6 @@
+Host: sql2.freesqldatabase.com
+Database name: sql21961
+Database user: sql21961
+Database password: rK5!gU7%
+
+
